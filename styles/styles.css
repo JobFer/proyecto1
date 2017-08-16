@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6{
 
 .content .icon{
     /*animation: float 1.5s ease-out infinite;*/
-    color: white;
+    color: red;
     font-size: 80px;
 }
 
